@@ -1,0 +1,135 @@
+rewarding: The <b>rewarding</b> feeling of solving a complex problem is one of the reasons I enjoy programming.
+stimulating: The <b>stimulating</b> nature of programming keeps me engaged and motivated to learn more.
+originality: Programming enables me to express my <b>originality</b> by crafting unique algorithms and building inventive applications.
+creativity: Programming enables me to express my <b>creativity</b> by crafting unique algorithms and building inventive applications.
+bureaucracy: The <b>bureaucracy</b> of the company was hindering the development process.
+red tape: Navigating through unnecessary <b>red tape</b> in the approval process often proves to be a significant challenge in software development.
+innovation: Our team strives to foster a culture of <b>innovation</b>, encouraging out-of-the-box thinking to revolutionize our products.
+approach to compliance: Implementing an effective <b>approach to compliance</b> involves meticulous adherence to coding standards and rigorous testing protocols.
+invest: We <b>invest</b> time in continuous learning and skill enhancement to stay updated with the latest technological advancements.
+passion: Our <b>passion</b> for crafting efficient and user-friendly applications drives our dedication to excellence in software development.
+dilute: Over complicating code can <b>dilute</b> its clarity and impact the overall performance of the application.
+dim: The complexity of a project can cast a <b>dimmer</b> understanding of the system's high architecture.
+handy: Integrated development environments prove to be <b>handy</b> tools for managing multiple aspects of the software development lifecycle.
+hydration: Regularly updating and maintaining code bases ensures the <b>hydration</b> of our systems, preventing technical debt accumulation.
+cohorts: Collaborating with <b>cohorts</b> across teams amplifies knowledge sharing and enriches the project's perspective.
+pivot: Recognizing market shifts, we <b>pivot</b> our development focus to meet evolving user demands.
+virtually: <b>Virtually</b> simulating software scenarios aids in identifying potential bottlenecks and enhancing overall performance.
+aggregate: The <b>aggregate</b> analysis of user feedback contributed to refining our software's user experience over the past quarter.
+annotation: Adding descriptive <b>annotations</b> to the codebase aids in better understanding intricate software architecture.
+diligently: We work <b>diligently</b> to ensure each software release undergoes comprehensive testing to maintain high-quality standards.
+dedication: The team's <b>dedication</b> to delivering robust and scalable software solutions is evident in our consistent efforts.
+resilience: Despite encountering setbacks, our team's <b>resilience</b> drives us to iterate and enhance our software continually.
+i'll proceed with implementing these changes.: (This is already a complete sentence expressing intention.)
+supervision: Implementing robust testing protocols under proper <b>supervision</b> ensures the reliability of our software products.
+offense: Overlooking coding standards may cause <b>offense</b> among team members, impacting collaboration and code quality.
+contradict: The proposed solution seemed to <b>contradict</b> the established software design principles.
+sympathy: Showing <b>sympathy</b> towards team members facing coding challenges fosters a collaborative and supportive work environment.
+instinct: Trusting one's <b>instinct</b> in problem-solving often leads to innovative solutions in software development.
+retention: Implementing growth opportunities is crucial to improving employee <b>retention</b> in the software development field.
+dedicated: Being a <b>dedicated</b> member of the software development team means consistently delivering high-quality solutions.
+escalate: The conflict <b>escalated</b> when neither side was willing to compromise.
+defective: The <b>defective</b> code was causing the application to crash.
+redundant: The <b>redundant</b> code was removed to improve the application's performance.
+refund: The customer requested a <b>refund</b> after the application failed to meet their expectations.
+attentive: The <b>attentive</b> developer noticed the bug and fixed it before the code was pushed to production.
+pose: The new feature will <b>pose</b> a challenge for the developers.
+think ill of: I don't <b>think ill of</b> the developer for making a mistake.
+frank: The developer was <b>frank</b> about the challenges they were facing.
+polite: The developer was <b>polite</b> when responding to the customer's complaint.
+offer compensation: The company decided to <b>offer compensation</b> to the customer.
+reimburse: The company decided to <b>reimburse</b> the customer for the faulty product.
+最终的/ eventually: The <b>eventual</b> solution was to rewrite the code from scratch.
+extension: The <b>extension</b> of the deadline was a relief for the developers.
+essential: The <b>essential</b> feature was missing from the application.
+contentious: The <b>contentious</b> debate was about the best way to implement the feature.
+quote: The <b>quote</b> from the CEO was inspiring.
+canonical: The <b>canonical</b> solution was to use a for loop.
+politely: The developer <b>politely</b> asked the customer to stop making unreasonable demands.
+reimbursement: The company offered a <b>reimbursement</b> to the customer.
+diplomatic: There was a <b>diplomatic</b> solution to the problem.
+offend: The developer didn't want to <b>offend</b> the customer.
+disappointed: The customer was <b>disappointed</b> with the product.
+dedication: The developer's <b>dedication</b> to the project was admirable.
+adventure: The developer was <b>adventurous</b> in their approach to problem-solving.
+conduct: The developer <b>conducted</b> a code review.
+modestly: The developer <b>modestly</b> accepted the praise.
+enthusiastic: The developer was <b>enthusiastic</b> about the new feature.
+interim: The <b>interim</b> solution was to use a while loop.
+frantically: The developer <b>frantically</b> searched for the bug.
+record: The developer <b>recorded</b> the bug in the issue tracker.
+to do or decide something without hesitation: The developer <b>plunged</b> into the project.
+vowel: The word "apple" starts with a <b>vowel</b>.
+compromise: The developer was willing to <b>compromise</b> to reach a solution.
+suggest a compromise: The developer <b>suggested a compromise</b> to the customer.
+profit: The company made a <b>profit</b> from the new feature.
+user cohorts: The <b>user cohorts</b> were divided into two groups.
+diligently: The developer <b>diligently</b> worked on the project.
+pivot: The company decided to <b>pivot</b> to a new market.
+virtually: The developer <b>virtually</b> tested the application.
+virtual: A <b>virtual</b> machine was used to test the application.
+visual: A <b>visual</b> representation of the data was created.
+margin: The <b>margin</b> of error was 5%.
+dim: A <b>dim</b> light was used to illuminate the room.
+dilute: Scores were <b>diluted</b> by the new grading system.
+mitigate: Incidents were <b>mitigated</b> by the new security measures.
+be batting a thousand: The developer <b>was batting a thousand</b> with their code.
+comprehensive: The developer <b>conducted a comprehensive</b> code review.
+applaud: I <b>applaud</b> the developer for their hard work.
+off-putting: The developer's attitude was <b>off-putting</b>.
+aggressive: I don't like the developer's <b>aggressive</b> approach to problem-solving.
+sing somebody's praises: I <b>sing the developer's praises</b> for their hard work.
+pay somebody's compliment: I <b>pay the developer a compliment</b> for their hard work.
+prone: Big projects are <b>prone</b> to failure.
+keep your head above water: The developer <b>kept their head above water</b> during the project.
+engrossing: The movie was so <b>engrossing</b> that I couldn't look away.
+weakness: The developer's <b>weakness</b> was their lack of experience.
+hold out hope: I <b>hold out hope</b> that the developer will finish the project on time.
+have the faintest idea: I <b>don't have the faintest idea</b> how to solve this problem.
+compliance: The developer was in <b>compliance</b> with the company's coding standards.
+faintest: I don't have the <b>faintest</b> idea how to solve this problem.
+analysis: The <b>analysis</b> of the data was conducted by the developer.
+analyze: The developer <b>analyzed</b> the data.
+get axed: The developer <b>got axed</b> from the project.
+stunned: I was <b>stunned</b> by the developer's performance.
+uncalled for: The developer's behavior was <b>uncalled for</b>.
+use modal verbs (could,might,may) to be more polite and less direct: <b>You might try opening this document</b> first.
+use the second conditional to be more polite and less direct: <b>If you could open this document first, that would be great.</b>
+from the second conditional with "if" + simple past clause, "would" + infinitive: <b>If I had time, I would help you.</b>
+tone something down: The developer <b>toned down</b> their criticism of the project.
+reach a consensus: The team <b>reached a consensus</b> on the best way to implement the feature.
+devise: Our first order of business is to <b>devise</b> a plan.
+设备/ device: The <b>device</b> was used to test the application.
+hold down the fort: The developer <b>held down the fort</b> while the rest of the team was on vacation.
+check in with: I'll <b>check in with</b> the developer to see how the project is going.
+credibility: Establish your <b>credibility</b> right up front.
+prospective: The <b>prospective</b> customer was interested in the product.
+admiration: I have <b>admiration</b> for the developer's work ethic.
+admire: I <b>admire</b> the developer's work ethic.
+admirable: The developer's work ethic was <b>admirable</b>.
+casual: The developer's <b>casual</b> attitude was off-putting.
+essentially: The developer <b>essentially</b> rewrote the code from scratch.
+intermittent: there were <b>intermittent</b> errors in the prod.
+obligation: we have an <b>obligation</b> to deliver the project on time.
+steward: Make the customer to be responsible for the <b>steward</b> of their own data.
+sustain: It's required to <b>sustain</b> the customer's trust.
+realm: This is the <b>realm</b> of privacy governance.
+governance: This is the realm of privacy <b>governance</b>.
+regulation: The <b>regulation</b> of data privacy is essential.
+compliance: The <b>compliance</b> with data privacy regulations is essential.
+thereby: The customer can <b>thereby</b> be responsible for the steward of their own data.
+inadvertent: The <b>inadvertent</b> disclosure of personal data is a serious issue.
+comprehensive: It's a <b>comprehensive</b> data protection law.
+consaltation: I want to ask for a private <b>consaltation</b>.
+in ideation: I'm <b>in ideation</b> for a new project.
+mitigation: It will be easy for a team to design the right <b>mitigation</b> strategy.
+compliant: The company is <b>compliant</b> with the data privacy regulations.
+conduct: You should <b>conduct</b> a comprehensive review of the code.
+suppressed: <b>Suppressed</b> alerts for progression stage 1.
+prevent ... from: Suppressing will <b>prevent</b> subsequent scorecards <b>from</b> triggering this alert for this experiment step.
+mystery: So <b>mystery</b> solved.
+adjacent: the only thing I found is the two ads <b>adjacent</b> issue.
+intruction: I need to follow the <b>intruction</b> to fix the issue.
+sentinel: <b>Sentinel</b> alerts for progression stage 1.
+volatile: I'm not sure if the issue is <b>volatile</b>.
+recruit: I need to <b>recruit</b> a new team member.

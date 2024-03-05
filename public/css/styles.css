@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  .word-container,
+  .sentence-container {
+    width: 100%;
+    margin: 0% auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .word-list,
+  .sentence-list {
+    list-style: none;
+    padding: 20px;
+  }
+  
+  .pair-container {
+    display: flex;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  .key,.translation {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #f4f4f4;
+    margin-right: 5px;
+    margin-bottom: 5px;
+  }
+  .id {
+    vertical-align: top;
+    padding: 5px;
+    width: 30px;
+    text-align: right;
+  }
+  .translation {
+    background-color: #fff;
+    width: 5%;
+    display: none;
+  }
+  .value {
+    font-size: 16px;
+    color:#666;
+    display: inline-block;
+    vertical-align: top;
+    width: 70%;
+    padding: 5px 10px;
+    border-radius: 5px;
+  
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+  }
+  .special-word {
+    color: #f00;
+    font-weight: bold;
+  }
+  .zh-sen{
+    width: 40%;
+    font-size: 14px;
+  }
+  .en-sen {
+    width: 60%;
+    font-size: 16px;
+  }
