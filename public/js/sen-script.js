@@ -23,6 +23,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 const idElement = document.createElement("span");
                 idElement.textContent = `${index + 1}.`;
                 idElement.classList.add("id"); // Add a class for styling if needed
+                const idElement2 = document.createElement("span");
+                idElement2.textContent = `${index + 1}.`;
+                idElement2.classList.add("id"); // Add a class for styling if needed
                 const translationElement = document.createElement("span");
                 translationElement.textContent = zh;
                 translationElement.classList.add("key"); // Add a class for styling if needed
@@ -34,6 +37,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 sentenceElement.classList.add("en-sen"); // Add a class for styling if needed
                 pairContainer.appendChild(idElement);
                 pairContainer.appendChild(translationElement);
+                pairContainer.appendChild(idElement2);
                 pairContainer.appendChild(sentenceElement);
                 wordList.appendChild(pairContainer);
             });
