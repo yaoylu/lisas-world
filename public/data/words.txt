@@ -133,3 +133,5 @@ intruction: I need to follow the <b>intruction</b> to fix the issue.
 sentinel: <b>Sentinel</b> alerts for progression stage 1.
 volatile: I'm not sure if the issue is <b>volatile</b>.
 recruit: I need to <b>recruit</b> a new team member.
+consensus: The team <b>reached a consensus</b> on the best way to implement the feature.
+facilitate: The new feature will <b>facilitate</b> the customer's experience.
