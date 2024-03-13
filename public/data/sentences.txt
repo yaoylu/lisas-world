@@ -79,3 +79,41 @@ Don’t worry. I’ll have everything under control. /别担心。我会控制�
 I’ll make sure everything goes smoothly. /我会确保一切顺利进行。
 I’d like you to send out e-mail reminders to the key players coming to the meeting, and I’ll forward you the previous minutes so you’ll know the questions to address. Oh, and there’s one important issue that needs to be resolved, which is that we don’t have enough volunteers yet. It’s essential that the group reach a consensus on how to recruit more. /我希望你给参加会议的关键人物发送电子邮件提醒，我会把之前的会议记录转发给你，这样你就会知道要解决的问题。哦，还有一个重要的问题需要解决，那就是我们还没有足够的志愿者。团队达成如何招募更多志愿者的共识是至关重要的。
 Thanks! I'll check in with you tomorrow to see how it went, but I'm confident you'll have everything under control. /谢谢！我明天会跟你联系，看看情况如何，但我相信你会控制一切的。
+我们去玩秋千好吗？/Can we go play on the swing?
+你想妈妈了吗？/Do you miss mom?
+姐姐在写作业吗？/Is sister doing her homework?
+你跳完绳了吗，今天跳了多少个？/Have you finished jumping rope? How many did you jump today?
+你完成英语作业了吗？/Have you finished your English homework?
+你能跟我说一下你今天学习的英文句子吗？/Can you tell me the English sentences you learned today?
+你今天学了什么新的英文单词？/What new English words did you learn today?
+赶快去洗漱，准备睡觉了。/Hurry up and wash up, it's time to go to bed.
+走，我们去吃饭。/Let's go eat.
+你今天吃了什么好吃的？/What delicious food did you eat today?
+我准备骑电动车带你们去公园完一会儿，前提是你快点写完作业。/I'm going to take you to the park on an electric bike in a while, provided you finish your homework quickly.
+你整理完书包了吗？/Have you finished packing your schoolbag?
+记得带英语卡片去学校。/Remember to take the English cards to school.
+读P12的课文，然后写一篇作文。/Read the text on page 12 and then write an essay.
+不行了，今天太晚了不能念书了。/No, it's too late today to study.
+你还有什么任务没完成？/What else do you have to do?
+你还有几个任务没完成？/How many tasks do you have left?
+洗脸了吗？/Have you washed your face?
+刷牙了吗？/Have you brushed your teeth?
+洗脚了吗？/Have you washed your feet?
+吃钙了吗？/Have you taken calcium?
+喝奶了吗？/Have you drunk milk?
+热水给他们倒好了吗？/Have you poured hot water for them?
+上厕所了吗？/Have you been to the bathroom?
+穿衣服，我带你下楼跳绳去。/Get dressed, I'll take you downstairs to jump rope.
+一分钟跳绳计时开始。/One minute jump rope timing starts.
+时间到了，停下来。/Time's up, stop.
+你今天在学校发生什么有趣的事了吗？/Did anything interesting happen at school today?
+再给你10分钟的时间玩，然后我们要回家了。/You have another 10 minutes to play, and then we have to go home.
+有北京户口的孩子才能在北京高考。/Only children with Beijing hukou can take the college entrance examination in Beijing.
+虽然我们可以在北京上学，但是无法高考，我们就面临着回到老家高考的问题。/Although we can go to school in Beijing, we cannot take the college entrance examination, so we are faced with the problem of returning to our hometown to take the college entrance examination.
+各个省学习的内容不完全一样，高考的内容也不完全一样，所以如果我们需要会老家高考，我们也就需要提前回去让孩子学习老家那边的高考内容。/The content of study in each province is not exactly the same, and the content of the college entrance examination is not exactly the same. So if we need to take the college entrance examination in our hometown, we need to go back in advance to let the children learn the content of the college entrance examination in our hometown.
+户口是身份的一部分，上面写明了你属于哪个地方。/Hukou is part of your identity, which indicates where you belong to.
+我出差了。/I'm on a business trip.
+thank you for pushing the fix, still I have a few concern regarding current solution. /谢谢你推动了这个修复，但是我对当前的解决方案还有一些担忧。
+方案一，在调整大小时根本不会有重新映射过程，因此更新的消耗是很小的。/In solution one, there will be no remapping process at all when resizing, so the update consumption is minimal.
+然而方案二，由于DOM是有columns构建的，所以在调整大小时会有更多的重新连接。/However, in solution two, because the DOM is constructed by columns, there will be more reconnections when resizing.
+我们在讨论代码实现的流程，以及可能的问题。/We are discussing the process of code implementation and possible problems.
