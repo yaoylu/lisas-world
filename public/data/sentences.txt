@@ -117,3 +117,45 @@ thank you for pushing the fix, still I have a few concern regarding current solu
 方案一，在调整大小时根本不会有重新映射过程，因此更新的消耗是很小的。/In solution one, there will be no remapping process at all when resizing, so the update consumption is minimal.
 然而方案二，由于DOM是有columns构建的，所以在调整大小时会有更多的重新连接。/However, in solution two, because the DOM is constructed by columns, there will be more reconnections when resizing.
 我们在讨论代码实现的流程，以及可能的问题。/We are discussing the process of code implementation and possible problems.
+我有个事情想提一下for your awareness, CF那边有个新的task需要我来完成。/I have something to bring to your attention, for your awareness, there is a new task on the CF side that needs me to complete.
+我大概估计了一下，需要花费我5天的时间来完成。/I estimated that it would take me 5 days to complete.
+所以这边的工作可能会有一些延迟。/So there may be some delay in the work here.
+你是说这边的工作中也有一些涉及到CF的任务吗，是哪些呢？/Are you saying that there are also some tasks related to CF in the work here, what are they?
+是的，现在Feed2.0中的responsive card是不支持展示CF的, 在ntp 和 prong2中都不支持。/No, the responsive card in Feed2.0 does not support the display of CF, neither in ntp nor prong2.
+我的新任务是为Prong2中的content card添加CF的展示。/My new task is to add the display of CF to the content card in Prong2.
+目前CF没有在Prong2中展示。/Currently, CF is not enabled in Prong2.
+CF在Prong2上没有enabled的原因是design team 不同意我们的design。现在我们更新了design并且通知了design team。所以我们准备开始这个任务。/The reason why CF is not enabled in Prong2 is that the design team does not agree with our design. Now we have updated the design and notified the design team. So we are ready to start this task.
+总结一下，我需要做的工作有3个，1, 给Prong2中的content card以及responsive card 添加CF。/In summary, there are three tasks I need to do, 1. Add the CF function to the content card and responsive card in Prong2.
+2，给NTP中的responsive card添加CF的展示。/2. Add the function of CF to the responsive card in NTP.
+3，给waterfall layout中添加Feed level的CF展示。/3. Add the the Feed level CF function to the waterfall layout.
+关于这个任务，我目前的想法是，重新设计feedData的数据结构。/Regarding this task, my current idea is to redesign the data structure of feedData.
+但是由于目前的页面使用了老的组件，而它只支持原来的feedData的数据结构，所以我想retire掉这个组件，写一个新的组件，支持新的feedData的数据结构。/But because the current page uses old components, and it only supports the original data structure of feedData, so I want to retire this component, write a new component, and support the new data structure of feedData.
+提醒一下，别忘了明天的午餐会。/Just a reminder, don't forget the lunch meeting tomorrow.
+hi, 我对这个设计有一些疑问，我想跟你讨论一下。/hi, I have some questions about this design, I want to discuss with you.
+设计上这个调查问卷是多选选项。但是我们没有任何后端接口来支持这种数据提交。/The survey questionnaire is a multiple-choice option in the design. But we don't have any backend interface to support this kind of data submission.
+改成单选还是有些问题。/Changing to single choice still has some problems.
+为了保持跟其他的页面一致，我们最好还是使用按钮而不是表单来收集反馈。/To keep consistent with other pages, it's better to use buttons instead of forms to collect feedback.
+其他的页面是通过用户点击按钮时向后端发送的默认log来收集的。/Other pages collect feedback by sending default logs to the backend when the user clicks the button.
+也就是我们不支持提交表单的操作。/That is, we do not support the submission of forms.
+如果设计一定要做表单提交的话，我们需要邀请后端开发来支持。/If the design must be submitted as a form, we need to invite backend development to support it.
+提醒一下，我们现在根据状态的不同，同一个按钮会有不同的名称。/Just a reminder, now according to different states, the same button will have different names.
+我现在的我工作重点在任务A上，目前进度是已完成了主要代码的开发，一些设计细节上需要designer在确认一下。目前这个任务已经在PR中了。/My current focus is on task A, and the progress is that the main code development has been completed, and some design details need to be confirmed by the designer. The task is now in the PR.
+任务B没有进展。/Task B has not progressed.
+根据设计，点击小卡的时候，我们要关闭调查问卷。/According to the design, when you click on the small card, we need to close the survey.
+关于design token我有些问题想提一下。/I have some questions about design tokens that I want to bring up.
+我们如何统一不同canvas中的design token？/How do we unify design tokens in different canvases?
+Preparing to Facilitate a Meeting for Someone Else. /为别人准备主持会议。
+So Matt delegated facilitating the pre-con meeting to you your first week? /所以Matt在你第一周就把预备会议的主持工作委托给了你？
+I guess he had to drop everything and head to Paris for some urgent business, so he handed it over to me. /我猜他不得不放下一切，赶去巴黎处理一些紧急的事情，所以他把这个任务交给了我。
+I'm a little nervous, but I think I've processed all the info he passed on./我有点紧张，但我觉得我已经处理了他传递的所有信息。
+Matt mentioned we still needed to identify a few more volunteers. /Matt提到我们还需要找到几个志愿者。
+I skimmed the minutes, and I think we need only one more volunteer to assist with sound. /我浏览了会议记录，我觉得我们只需要再找一个志愿者来协助处理声音问题。
+We could maybe get by with what we've got for registration, but several more volunteers are desired. /我们可能可以凑合着用现有的人员来处理注册，但是还需要几个志愿者。
+Is that correct? /是这样吗？
+I wish we'd had more tables for the conference, but we got by with what we had. /我希望我们能有更多的桌子用于会议，但是我们凑合着用现有的。
+Yeah, and actually, it occurred to me that we should seek out an additional translator as well. /是的，实际上，我想到我们还应该寻找一个额外的翻译。
+At the conference, several problems came up, but Kate thought on her feet and solved them all quickly. /在会议上，出现了几个问题，但是Kate当机立断，迅速解决了所有问题。
+OK, that'll be the first on the agenda. And we'll have to make sure we're on track with equipment, catering, and accommodations. /好的，这将是议程上的第一项。我们还需要确保我们在设备、餐饮和住宿方面一切顺利。
+I'll already email the attendees to remind them about the meeting. /我已经给与会者发送了电子邮件，提醒他们会议的时间。
+I also plan to bring transportation up. Based on the e-mails I scanned, it looks like airport transportation has been arranged for most of the VIP delegates, but I didn't find anything set up for the last presenter invited. /我还计划提出交通问题。根据我浏览的电子邮件，大部分的VIP代表的机场接送已经安排好了，但是我没有发现最后一个被邀请的演讲者的接送安排。
+He handed the meeting over to me. /他把会议交给了我。
