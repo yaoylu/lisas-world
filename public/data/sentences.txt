@@ -192,3 +192,21 @@ CF的localization String非常多，CF experience中维护了一个cfId对于ser
 减少CF组件shadow root的层数。/Reduce the number of shadow root layers of the CF component.
 我好奇的问一下，如果我们有这个信号了，我们将以何种方式传递给前端呢？以pageContext的方式返回吗？、/I'm curious, if we have this signal, how will we pass it to the front end? Return it in the form of pageContext?
 这样的话，我想提醒一下，前端对这种数据的使用有2中方式，一种是存在localstorge中，待用户下次打开页面时读取生效。这种方式的好处是比较早期的能够获得信号并渲染页面。缺点是SSR下失效。另一种方式是当次获取到信号即生效，但是因为得到信号时间较晚，造成页面抖动。/In this case, I would like to remind you that there are two ways for the front end to use this data. One is stored in localstorge and takes effect when the user opens the page next time. The advantage of this method is that it can obtain the signal early and render the page. The disadvantage is that it is invalid under SSR. The other way is to take effect immediately when the signal is obtained, but because the signal is obtained late, it causes page jitter.
+Is the ask for me to work on a flight to remove the gradients from sd cards? /请问我是要去做一个flight来移除sd卡的渐变色吗？
+I'm not sure if I understand the ask correctly. /我不确定我是否正确理解了要求。
+could you please prioritize this? /你能优先处理这个吗？
+我要先drop了，我等下有个会。/I have to drop first, I have a meeting later.
+对不起，我要迟到一小会，我现在有个会议冲突了。/Sorry, I'm going to be a little late, I have a meeting conflict now.
+我能先看下设计效果吗？/Can I see the design effect first?
+你能向上滚动一下，我想看看上一部分的内容。/Can you scroll up, I want to see the content of the previous part.
+我发现设计上有个数据提交的功能。/I found a data submission function in the design.
+既然要提交数据，那我们就需要后端接口来支持。/Since we need to submit data, we need backend interfaces to support it.
+所以我们是想复用report an issue的后端接口吗？/So are we trying to reuse the backend interface of report an issue?
+我注意到Report an issue时，是向2个不同的后端接口提交数据的。/I noticed that when reporting an issue, data is submitted to 2 different backend interfaces.
+我们要用哪个后端接口来提交数据？/Which backend interface are we going to use to submit data?
+同一个用户，我们要他多次提交数据吗？/For the same user, do we want him to submit data multiple times?
+我们要在我们的调查问卷中渲染一整张新闻卡片吗？/Do we want to render a whole news card in our survey?
+这可能有点复杂，我需要时间调查一下可行性。/This may be a bit complicated, I need time to investigate the feasibility.
+我现在的想法是，将popup样式的调查问卷移动到feed那层，这样可以减少对content card的影响。/My current idea is to move the popup style survey to the feed layer, which can reduce the impact on the content card.
+但是我们不能完全移除content card上的调查问卷，因为在Prong2上，我们还是有banner样式的调查卷。/But we can't completely remove the survey on the content card, because in Prong2, we still have banner style surveys.
+所以你是想我们存储2份同样的文本吗，一部分放在卡片中，一部分放在单独的组件中。/So you want us to store the same text twice, part in the card and part in a separate component.
