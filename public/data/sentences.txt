@@ -210,3 +210,79 @@ could you please prioritize this? /你能优先处理这个吗？
 我现在的想法是，将popup样式的调查问卷移动到feed那层，这样可以减少对content card的影响。/My current idea is to move the popup style survey to the feed layer, which can reduce the impact on the content card.
 但是我们不能完全移除content card上的调查问卷，因为在Prong2上，我们还是有banner样式的调查卷。/But we can't completely remove the survey on the content card, because in Prong2, we still have banner style surveys.
 所以你是想我们存储2份同样的文本吗，一部分放在卡片中，一部分放在单独的组件中。/So you want us to store the same text twice, part in the card and part in a separate component.
+Do we need to assign an empty string here? /我们需要在这里分配一个空字符串吗？
+What is the effect of keeping this value undefined? /保留这个值未定义会有什么影响？
+hi, stefan，我们能不能要求后端给新闻卡传递isGa信号时同时给出cfid？/hi, stefan, can we ask the backend to provide the cfid when passing the isGa signal to the news card?
+目前cfid只在SD/CG/Caroucel card 中提供了，我希望在新闻卡中也能提供。/Currently, cfid is only provided in SD/CG/Caroucel card, I hope it can also be provided in the news card.
+cfId是用来指示前端用哪些survey内容的，所以在新闻卡中也需要。/cfId is used to indicate which survey content the front end uses, so it is also needed in the news card.
+同时我还想提一下，OCV似乎只接收了comments一个关键信息，其他actions上勾选的选项，似乎没有上报给OCV. /At the same time, I would like to mention that OCV seems to have only received comments as a key information, and other options checked on actions do not seem to have been reported to OCV.
+ 我们可以单独增加一个字段来上报用户勾选的选项，我们需要商量一下对接协议，以方便后续读取。/At the same time, I would like to mention that OCV seems to have only received comments as a key information, and other options checked on actions do not seem to have been reported to OCV. We can add a separate field to report the options checked by the user, and we need to discuss the docking protocol to facilitate subsequent reading.
+What did you work on yesterday? /你昨天做了什么？
+What are your plans for today? /你今天的计划是什么？
+Are there any blockers or issues preventing you from progressing? /有什么阻碍或问题阻止你继续前进吗？
+Current status of ongoing tasks. /正在进行的任务的当前状态。
+Priority of tasks and deadlines. /任务的优先级和截止日期。
+Any recent changes to work items. /工作项的最新更改。
+Discussing new libraries or frameworks. 
+Pros and cons of different technologies.
+Implementation strategies and design patterns.
+Code Reviews
+
+Best practices for reviewing code.
+Common issues found during code reviews.
+How to give constructive feedback.
+Problem-Solving
+
+Challenges faced and how you resolved them.
+Asking for help or advice on a technical problem.
+Brainstorming solutions with the team.
+Questions for Daily Stand-Up
+What did you accomplish yesterday?
+
+"Yesterday, I implemented the new authentication feature and resolved a few bugs in the user interface."
+What are you working on today?
+
+"Today, I'll be focusing on integrating the payment gateway and writing unit tests for the new feature."
+Do you have any blockers?
+
+"I'm currently blocked by a bug in the third-party API. I'll need help troubleshooting it."
+Questions for Work Item Status
+What is the status of the login feature?
+
+"The login feature is in the final stages of testing. We expect to deploy it by end of day tomorrow."
+Have there been any changes to the project requirements?
+
+"Yes, the client requested an additional security layer, which we need to implement by next week."
+Are there any high-priority bugs that need immediate attention?
+
+"There are a couple of critical bugs affecting the user experience that need to be fixed as soon as possible."
+Questions for Discussing Technology Solutions
+What are the benefits of using React over Angular for our project?
+
+"React's component-based architecture and virtual DOM might make it easier to manage the user interface efficiently."
+Can we discuss the performance implications of using Redux for state management?
+
+"Using Redux can add complexity and may impact performance if not used correctly, but it offers a predictable state container."
+What are the latest trends in frontend development that we should consider?
+
+"Server-side rendering and static site generation with frameworks like Next.js are becoming increasingly popular for improving load times and SEO."
+Questions for Code Reviews
+Can you explain the reasoning behind this particular piece of code?
+
+"I used this pattern to ensure better readability and maintainability of the code."
+What improvements can be made to enhance the performance of this function?
+
+"We could refactor this function to reduce its complexity and improve its execution time."
+Are there any best practices we should follow for naming conventions?
+
+"Using descriptive and consistent naming conventions can significantly enhance code readability."
+Questions for Problem-Solving
+What challenges have you encountered with the current implementation?
+
+"I'm facing difficulties with the API response time, which is causing delays in data fetching."
+Does anyone have suggestions on how to optimize this algorithm?
+
+"Maybe we can use a different sorting algorithm that's more efficient for large datasets."
+How should we approach debugging this issue?
+
+"We could start by isolating the problem to determine if it's a frontend or backend issue."

@@ -67,9 +67,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 const wordElement = document.createElement("span");
                 wordElement.textContent = word.trim();
                 wordElement.classList.add("key"); // Add a class for styling if needed
-                if(!word.trim().includes(" ")) {
-                    console.log(word.trim());
-                }
                 const sentenceElement = generateSentenceElement(sentence);
                 pairContainer.appendChild(idElement);
                 pairContainer.appendChild(wordElement);

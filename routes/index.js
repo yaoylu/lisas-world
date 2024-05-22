@@ -15,4 +15,8 @@ router.get("/sentences", function(req, res){
   res.render('sentences', { title:`Lisa's Sentences` })
 });
 
+router.get("/topic1", function(req, res){
+  res.render('topic1', { title:`Lisa's Topics 01` })
+});
+
 module.exports = router;

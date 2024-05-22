@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+  <%- include("component/navBar") %>
+    <div class="word-container">
+        <h1><%= title %></h1>
+        <h2>Topics</h2>
+        <ol>
+          <li><strong>Daily Stand-Up Updates</strong>
+            <ul>
+              <li>What did you work on yesterday?</li>
+              <li>What are your plans for today?</li>
+              <li>Are there any blockers or issues preventing you from progressing?</li>
+            </ul>
+          </li>
+          <li><strong>Work Item Status</strong>
+            <ul>
+              <li>Current status of ongoing tasks.</li>
+              <li>Priority of tasks and deadlines.</li>
+              <li>Any recent changes to work items.</li>
+            </ul>
+          </li>
+          <li><strong>Technology Solutions</strong>
+            <ul>
+              <li>Discussing new libraries or frameworks.</li>
+              <li>Pros and cons of different technologies.</li>
+              <li>Implementation strategies and design patterns.</li>
+            </ul>
+          </li>
+          <li><strong>Code Reviews</strong>
+            <ul>
+              <li>Best practices for reviewing code.</li>
+              <li>Common issues found during code reviews.</li>
+              <li>How to give constructive feedback.</li>
+            </ul>
+          </li>
+          <li><strong>Problem-Solving</strong>
+            <ul>
+              <li>Challenges faced and how you resolved them.</li>
+              <li>Asking for help or advice on a technical problem.</li>
+              <li>Brainstorming solutions with the team.</li>
+            </ul>
+          </li>
+        </ol>
+        
+        <h2>Questions for Daily Stand-Up</h2>
+        <ol>
+          <li>What did you accomplish yesterday?
+            <p>"Yesterday, I implemented the new authentication feature and resolved a few bugs in the user interface."</p>
+          </li>
+          <li>What are you working on today?
+            <p>"Today, I'll be focusing on integrating the payment gateway and writing unit tests for the new feature."</p>
+          </li>
+          <li>Do you have any blockers?
+            <p>"I'm currently blocked by a bug in the third-party API. I'll need help troubleshooting it."</p>
+          </li>
+        </ol>
+        
+        <h2>Questions for Work Item Status</h2>
+        <ol>
+          <li>What is the status of the login feature?
+            <p>"The login feature is in the final stages of testing. We expect to deploy it by end of day tomorrow."</p>
+          </li>
+          <li>Have there been any changes to the project requirements?
+            <p>"Yes, the client requested an additional security layer, which we need to implement by next week."</p>
+          </li>
+          <li>Are there any high-priority bugs that need immediate attention?
+            <p>"There are a couple of critical bugs affecting the user experience that need to be fixed as soon as possible."</p>
+          </li>
+        </ol>
+        
+        <h2>Questions for Discussing Technology Solutions</h2>
+        <ol>
+          <li>What are the benefits of using React over Angular for our project?
+            <p>"React's component-based architecture and virtual DOM might make it easier to manage the user interface efficiently."</p>
+          </li>
+          <li>Can we discuss the performance implications of using Redux for state management?
+            <p>"Using Redux can add complexity and may impact performance if not used correctly, but it offers a predictable state container."</p>
+          </li>
+          <li>What are the latest trends in frontend development that we should consider?
+            <p>"Server-side rendering and static site generation with frameworks like Next.js are becoming increasingly popular for improving load times and SEO."</p>
+          </li>
+        </ol>
+        
+<h2>Questions for Code Reviews</h2>
+<ol>
+  <li>
+    <strong>Can you explain the reasoning behind this particular piece of code?</strong>
+    <p>"I used this pattern to ensure better readability and maintainability of the code."</p>
+  </li>
+  <li>
+    <strong>What improvements can be made to enhance the performance of this function?</strong>
+    <p>"We could refactor this function to reduce its complexity and improve its execution time."</p>
+  </li>
+  <li>
+    <strong>Are there any best practices we should follow for naming conventions?</strong>
+    <p>"Using descriptive and consistent naming conventions can significantly enhance code readability."</p>
+  </li>
+</ol>
+
+<h2>Questions for Problem-Solving</h2>
+<ol>
+  <li>
+    <strong>What challenges have you encountered with the current implementation?</strong>
+    <p>"I'm facing difficulties with the API response time, which is causing delays in data fetching."</p>
+  </li>
+  <li>
+    <strong>Does anyone have suggestions on how to optimize this algorithm?</strong>
+    <p>"Maybe we can use a different sorting algorithm that's more efficient for large datasets."</p>
+  </li>
+  <li>
+    <strong>How should we approach debugging this issue?</strong>
+    <p>"We could start by isolating the problem to determine if it's a frontend or backend issue."</p>
+  </li>
+</ol>
+    </div>
+    <script src="/js/common.js"></script>
+
+</body>
+</html>
